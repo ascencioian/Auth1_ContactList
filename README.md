@@ -1,6 +1,4 @@
 # My Awesome Project
-This project is to use express with a previous project. Users can enter in a word and check to see if the word is a palindrome. There is an icon with a question mark that increments by one for questions. There is also a trashcan icon to delete user inputs. 
-
 This project is to use express and nodejs alongside a sign on and authentication tool Passport. Users sign up for the service, and then sign in to the application. The application will only display the information that was submitted by the current signed on session. A user will put in contact information and click save and this information will be stored for them until they decide to delete the information with the delete button. 
 
 **Link to project:**
