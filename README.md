@@ -3,6 +3,7 @@ This project is to use express and nodejs alongside a sign on and authentication
 
 **Link to project:**
 
+<img src="images/live_screenshot.png">
 
 
 ## How It's Made:
